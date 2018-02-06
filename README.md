@@ -1,0 +1,2 @@
+# cursopythonicos
+Curso Pythonicos
